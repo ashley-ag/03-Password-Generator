@@ -3,7 +3,7 @@ var generateBtn = document.querySelector("#generate");
 
 function generatePassword() {
 
-var newPassword; 
+var newPassword = ''; 
 var allowLowerCase;
 var allowUpperCase;
 var allowNumerical;
